@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vagrant/notebooks/mlruns/0/617b559bb9e34bb684f717824a4685e1/artifacts
+end_time: 1637017901344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 617b559bb9e34bb684f717824a4685e1
+run_uuid: 617b559bb9e34bb684f717824a4685e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637017900845
+status: 3
+tags: []
+user_id: vagrant

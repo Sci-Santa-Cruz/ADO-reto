@@ -1,0 +1,17 @@
+Flujo Vehicular 2021
+
+Flujo vehicular captado por radares desagregado por hora en 2021. 
+Incluye fecha, hora, nombre de la autopista y ubicación del radar.
+
+Campos del recurso
+
+Nombre 				Tipo 	Descripción
+Mes, Día, Año de H_Fecha 	string 	Mes, Día, Año de H_Fecha
+H_Hora 				string 	H_Hora
+Aut Nombre 			string 	Aut Nombre
+Disp Nombre 			string 	Disp Nombre
+Disp Ubicacion 			string 	Disp Ubicacion
+Seccion Sentido 		string 	Seccion Sentido
+Disp Lat 			string 	Disp Lat
+Disp Lng 			string 	Disp Lng
+H_Cant_Veh 			string 	H_Cant_Veh
